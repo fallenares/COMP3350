@@ -8,7 +8,7 @@
 
 1. Project name: **Personal Budget-Balancing System (PBBS)**.
 
-2. Repository link: [PBBS Repository](https://github.com/tommyvct/FigureHub_3350).
+2. Repository link: [PBBS Repository](https://github.com/fallenares/COMP3350).
 
 	* You can view all the source code files from the link above.
 
